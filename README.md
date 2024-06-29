@@ -28,3 +28,9 @@ população total de clientes. Suponha que a sua "população" de clientes
 verdadeira é de 100000. Qual o tamanho da amostra necessária para
 chegarmos a conclusões com 95% de confiança e 2% de margem de erro? A
 base informada é suficiente? E com uma margem de erro de 10%?
+
+
+#Sugestões:
+  - Abra o arquivo .ipynb com google colab (isso evitará alguma necessidade de instalação de programas adicionais)
+  - Anexe o arquivo dos dados junto ao arquivo .ipynb para só depois iniciar a leitura dos códigos. 
+  - Rode as células nas sequências aos quais elas foram escritas. 
